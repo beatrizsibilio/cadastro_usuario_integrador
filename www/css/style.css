@@ -1,0 +1,31 @@
+body{
+  background-image: url('../imagens/fundo.jpg');
+}
+
+#cabecalho{
+  background-color: #32A2B8;
+  color: white;
+  border-bottom: solid white 1px;
+  padding-top: 10px;
+  padding-botton: 10px;
+}
+
+#logotipo{
+  text-align: center;
+}
+
+#logo{
+  text-align: center;
+  width: 300px;
+  height: 300px;
+}
+
+label, p{
+  margin-top: 20px;
+  color: #555555;
+}
+
+#cadastrar{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
